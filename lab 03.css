@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+tr
+{
+    background-color:rgb(110, 162, 194);
+    color:black;
+}
+
+th
+{
+    background-color:rgb(105, 224, 105);
+    color:black;
+}
+
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Duration</th>
+    <th>start date</th>
+    <th>Total fees</th>
+    <th>Discounts</th>
+    <th>Diploma/Higher Diploma</th>
+  </tr>
+  <tr>
+    <td>Data_Science</td>
+    <td>12 months</td>
+    <td>1/9/21</td>
+    <td>Rs.200000.00</td>
+    <td>0%</td>
+    <td>Diploma</td>
+
+  </tr>
+  <tr>
+
+  <td>Cloud Computing</td>
+<td>8 months</td>
+<td>15/9/2021</td>
+<td>Rs.175000.00</td>
+<td>5%</td>
+<td>Diploma</td>
+
+  </tr>
+
+  <tr>
+
+<td>Cyber Security</td>
+<td>12 months</td>
+<td>1/10/2021</td>
+<td>Rs.150000.00</td>
+<td>10%</td>
+<td>Higher Diploma<td>
+
+</tr>
+
+<tr>
+
+<td>DevOps</td>
+<td>12 months</td>
+<td>1/9/2021</td>
+<td>Rs.250000.00</td>
+<td>0%</td>
+<td>Higher Diploma</td>
+
+</tr>
+
+
+<tr>
+
+<td>loT</td>
+<td>8 months</td>
+<td>20/9/2021</td>
+<td>Rs.150000.00</td>
+<td>15%</td>
+<td>Higher Diploma</td>
+
+</tr>
+
+<tr>
+
+<td>AI and ML</td>
+<td>8 months</td>
+<td>15/9/2021</td>
+<td>Rs.250000.00</td>
+<td>0%</td>
+<td>Diploma</td>
+
+</tr>
+
+<tr>
+
+<td>Full Stack</td>
+<td>9 months</td>
+<td>1/9/2021</td>
+<td>Rs.175000.00</td>
+<td>0%</td>
+<td>Diploma</td>
+
+</tr>
+
+<tr>
+
+<td>Ethical Hacking</td>
+<td>12 months</td>
+<td>15/9/2021</td>
+<td>Rs.150000.00</td>
+<td>15%</td>
+<td>Diploma</td>
+
+</tr>
+
+</table>
+
+</body>
+</html>
+
+
